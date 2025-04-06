@@ -76,7 +76,7 @@ export default function About() {
                 </div>
                 <div>
                   <h4 className="text-sm text-gray-400 mb-1">EMAIL</h4>
-                  <p className="text-white">contact@harshdhami.com</p>
+                  <p className="text-white">dhamiharsh203@gmail.com</p>
                 </div>
                 <div>
                   <h4 className="text-sm text-gray-400 mb-1">ROLE</h4>
