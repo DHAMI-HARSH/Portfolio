@@ -29,14 +29,14 @@ const skillCategories = [
     title: "Full Stack Development",
     icon: <Globe className="h-12 w-12 mb-4" />,
     description: "End-to-end development capabilities from database design to frontend implementation and deployment.",
-    skills: ["Next.js", "Tailwind CSS", "PostgreSQL", "GraphQL", "AWS"],
+    skills: ["Next.js", "Tailwind CSS",  "GraphQL", ],
   },
   {
     id: "backend",
     title: "Backend Development",
     icon: <Server className="h-12 w-12 mb-4" />,
     description: "Building robust, scalable server-side applications with focus on performance and security.",
-    skills: ["Node.js", "Express", "REST APIs", "Microservices", "Docker"],
+    skills: ["Node.js", "Express", "REST APIs", "Microservices", ],
   },
   {
     id: "frontend",
